@@ -89,8 +89,6 @@ This project delivers an **interactive Power BI dashboard** that:
 
 ## 📸 Dashboard Preview
 
-> *(Upload your screenshot and replace the file name below)*
-
 ![Dashboard Preview](Dashboard.png)
 
 ---
