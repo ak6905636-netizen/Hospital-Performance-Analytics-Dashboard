@@ -91,7 +91,7 @@ This project delivers an **interactive Power BI dashboard** that:
 
 > *(Upload your screenshot and replace the file name below)*
 
-![Dashboard Preview](dashboard.png)
+![Dashboard Preview](Dashboard.png)
 
 ---
 
